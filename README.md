@@ -122,25 +122,6 @@
 
 </details>
 
-<!--SNAKE-->
-
-
-<p align="center">
- 
-<a href="https://github.com/mohamed-amine-namasse">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/mohamed-amine-namasse/mohamed-amine-namasse/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
-</a>
-
-<a href="https://github.com/mohamed-amine-namasse">
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed-amine-namasse/mohamed-amine-namasse/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed-amine-namasse/mohamed-amine-namasse/pcman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed-amine-namasse/mohamed-amine-namasse/pacman/pacman-contribution-graph.svg">
-</picture>
- </a>
-
-</p>
 
 
 
