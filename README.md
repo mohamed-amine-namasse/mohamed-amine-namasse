@@ -88,7 +88,7 @@
 <p align="center">
 <a href="https://www.flagcounter.me/details/gEx"><img src="https://www.flagcounter.me/gEx/" alt="Flag Counter"></a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-amine-namasse)](https://github.com/anuraghazra/github-readme-stats)
+[![mohamed-amine-namasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-amine-namasse)](https://github.com/mohamed-amine-namasse/github-readme-stats)
 
 
 
