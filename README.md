@@ -199,16 +199,6 @@
 
 
 
- <h2 align="center" width="20" >
-   【H o b b i e s】
-</h2>
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<a href="https://github.com/walidbosso"> 
-<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
-<a href="https://github.com/walidbosso"> 
- <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
-
 
 
 
