@@ -171,19 +171,7 @@
 </p>
 
 <div align="center">
- 
- <details open disabled>
 
-<summary>👏 Thanks for the support </summary>
-
-
-
-
-
-
-
-<br/>
-</details>
 <br/> </p>
 
 
