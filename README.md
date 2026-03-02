@@ -155,8 +155,7 @@
 <!-- THANKS-->
 
 
-<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="right" /></a></p>
-<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="left" /></a></p>
+
 
 
  <p align="center">
@@ -166,6 +165,8 @@
 <p align="center">
 <a href="https://www.flagcounter.me/details/gEx"><img src="https://www.flagcounter.me/gEx/" alt="Flag Counter"></a>
 </p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="right" /></a></p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="left" /></a></p>
 
 
 
