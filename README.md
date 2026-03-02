@@ -85,7 +85,7 @@
 
 </details>
 <!--
-[![GitHub Repository Contribution stats](https://github-readme-stats.vercel.app/api?username=mohamed-amine-namasse)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-amine-namasse)](https://github.com/mohamed-amine-namasse/github-readme-stats)
 
 
  
