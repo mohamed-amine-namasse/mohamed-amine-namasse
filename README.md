@@ -2,7 +2,7 @@
 <!--Intro-->
 
  
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/mohamed-amine-namasse"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/mohamed-amine-namasse"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=mohamed-amine-namasse&style=for-the-badge&color=blue"></a>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />!
 
 
 
