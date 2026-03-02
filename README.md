@@ -89,8 +89,8 @@
 <a href="https://www.flagcounter.me/details/gEx"><img src="https://www.flagcounter.me/gEx/" alt="Flag Counter"></a>
 </p>
 <div align="center">
-<img alt="Mohamed-amine-namasse's GitHub stats" src="https://github-readme-stats-one.vercel.app/api/api?username=mohamed-amine-namasse&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats-one.vercel.app/api/api/top-langs/?username=mohamed-amine-namasse&layout=compact&&langs_count=8"/>
+<img alt="Mohamed-amine-namasse's GitHub stats" src="https://github-readme-stats-one.vercel.app/api?username=mohamed-amine-namasse&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mohamed-amine-namasse&layout=compact&&langs_count=8"/>
 </div>
 
 
