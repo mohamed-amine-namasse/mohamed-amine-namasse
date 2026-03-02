@@ -434,19 +434,8 @@
 
 </div>
 
-## Forkers
 
-<div align="center" >
 
-[![Forkers repo roster for @walidbosso/walidbosso](http://reporoster.com/forks/dark/walidbosso/walidbosso)](https://github.com/walidbosso/walidbosso/network/members)
-
-</div>
-
-## Contributors
-
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/walidbosso"/>
-</a>
 
 
 <br/>
