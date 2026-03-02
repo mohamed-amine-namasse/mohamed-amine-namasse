@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/walidbosso"> 
- <img align="center" src="./images/header.png" width="100%">    
-</a>
+
 <p align="center">
 
  
