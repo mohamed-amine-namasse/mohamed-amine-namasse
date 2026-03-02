@@ -53,7 +53,7 @@
 >  <a href="https://www.linkedin.com/in/mohamed-amine-namasse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 >   <a href="https://mohamed-amine-namasse.students-laplateforme.io/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
 >   <a href="mailto:namasse.medamine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-> <!--   <a href="https://api.whatsapp.com/send?phone=+33665717086&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> -->
+> 
 >   
 >  
 > </p>
