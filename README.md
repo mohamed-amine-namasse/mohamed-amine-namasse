@@ -108,8 +108,7 @@
 
 
 
-<!-- views-->
-  <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=mohamed-amine-namasse&label=Profile%20Views&color=1&icon=3&pretty=true" />
+
 
 
 
