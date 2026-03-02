@@ -39,14 +39,14 @@
 </a>
 
 > [!NOTE]
-> - 🚙 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
+> - 🚙 I’m currently working on web development technologies like `React` etc.
 
 > [!IMPORTANT]
-> - 📚 I’m currently learning **Docker, Jenkins and Grafana** 😅
+> - 📚 I’m currently learning **Docker ,NodeJS** 😅
 
 
 > [!WARNING]  
-> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
+> - 💪🏼 Future Goals: Learn more technologies, starting next with **Symphony PHP** - Never stop creating new ideas.
 
 > [!TIP]  
 > - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
