@@ -84,6 +84,12 @@
 
 
 </details>
+<!--
+[![GitHub Repository Contribution stats](https://github-readme-stats.vercel.app/api?username=mohamed-amine-namasse)
+
+
+ 
+-->
 <br/><br/>
 <p align="center">
 <a href="https://www.flagcounter.me/details/gEx"><img src="https://www.flagcounter.me/gEx/" alt="Flag Counter"></a>
@@ -101,9 +107,6 @@
   <div align="center">
 
 
-<a href="https://github.com/mohamed-amine-namasse"> 
- <img align="center" src="./images/city.gif" width="60%" align="center">   
-</a>
 
  
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/mohamed-amine-namasse)
@@ -172,12 +175,7 @@
 
 
 
-<!--
-[![GitHub Repository Contribution stats](https://github-readme-stats.vercel.app/api?username=mohamed-amine-namasse)
 
-
- 
--->
  <!--
 
 --> 
