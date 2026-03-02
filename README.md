@@ -37,7 +37,7 @@
 </a>
 
 > [!NOTE]
-> - 🚙 I’m currently working on web development technologies like `React` etc.
+> - 🚙 I’m currently working on web development technologies like `React`.
 
 > [!IMPORTANT]
 > - 📚 I’m currently learning **Docker ,NodeJS** 😅
