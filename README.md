@@ -89,9 +89,7 @@
 <img alt="Top langs" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mohamed-amine-namasse&layout=compact&&langs_count=8"/>
 </div>
 <br/><br/>
-<p align="center">
-<a href="https://www.flagcounter.me/details/gEx"><img src="https://www.flagcounter.me/gEx/" alt="Flag Counter"></a>
-</p>
+
 
 
 
@@ -165,7 +163,9 @@
   <a href="https://github.com/mohamed-amine-namasse"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
 </p>
 
-
+<p align="center">
+<a href="https://www.flagcounter.me/details/gEx"><img src="https://www.flagcounter.me/gEx/" alt="Flag Counter"></a>
+</p>
 
 
 
