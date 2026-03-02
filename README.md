@@ -209,29 +209,6 @@
 <a href="https://github.com/walidbosso"> 
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
-<!--spotify CARD-->
-
-<br>
-<h4 align="center">
-<!-- Currently Coding and Listening -->
-</h4>
- <div align="center">
-
-
-
-<a href="https://github.com/walidbosso"> 
-  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
-</a>
-  
- <!-- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)--> 
-
-  
-
-<!--MORE SONGS-->
-
-<details open align="center">
-  <summary>💚 More</summary>
-  <br>
 
 
 
