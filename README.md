@@ -173,11 +173,10 @@
 
 
 <!--
-[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mohamed-amine-namasse)
+[![GitHub Repository Contribution stats](https://github-readme-stats.vercel.app/api?username=mohamed-amine-namasse)
 
-[![GitHub forks](https://img.shields.io/github/forks/mohamed-amine-namasse/MATLAB_Image_processing_app.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/mohamed-amine-namasse/MATLAB_Image_processing_app/network/)
-[![GitHub watchers](https://img.shields.io/github/watchers/mohamed-amine-namasse/MATLAB_Image_processing_app.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/mohamed-amine-namasse/MATLAB_Image_processing_app/watchers/)
- <img align="left" src="https://img.shields.io/github/downloads/mohamed-amine-namasse/MATLAB_Image_processing_app/total.svg" width="200">   
+
+ 
 -->
  <!--
 
