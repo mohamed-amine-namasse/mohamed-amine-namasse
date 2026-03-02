@@ -106,9 +106,9 @@
 
 
 </details>
-
+<p align="center">
 <a href="https://www.flagcounter.me/details/gEx"><img src="https://www.flagcounter.me/gEx/" alt="Flag Counter"></a>
-
+</p>
 
 
 
