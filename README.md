@@ -423,16 +423,7 @@
 
 <summary>👏 Thanks for the support </summary>
 
-## Stargazers
 
-
-<div align="center">
-
-[![Stargazers repo roster for @walidbosso/walidbosso](http://reporoster.com/stars/dark/walidbosso/walidbosso)](https://github.com/walidbosso/walidbosso/stargazers)
-
-
-
-</div>
 
 
 
