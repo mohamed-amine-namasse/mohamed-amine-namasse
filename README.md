@@ -46,7 +46,7 @@
 
 
 > [!WARNING]  
-> - 💪🏼 Future Goals: Learn more technologies, starting next with **Symphony PHP** - Never stop creating new ideas.
+> - 💪🏼 Future Goals: Learn more technologies, starting next with **Symphony PHP** - Never stop learning new skills.
 
 > [!TIP]  
 > - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
