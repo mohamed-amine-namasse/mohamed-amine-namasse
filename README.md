@@ -29,16 +29,26 @@
 > - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
 
 > <p align="center">
-> <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-amine-namasse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+> <p align="center">
+>  <a href="https://www.linkedin.com/in/mohamed-amine-namasse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 >   <a href="https://mohamed-amine-namasse.students-laplateforme.io/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logoColor=white&labelColor=4CA143" /></a>
 >   <a href="mailto:namasse.medamine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+> <p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-amine-namasse" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mohamed-amine-namasse.students-laplateforme.io/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logoColor=white&labelColor=4CA143" alt="Portfolio" />
+  </a>
+  <a href="mailto:namasse.medamine@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 > 
 >   
 >  
-> </p>
----
+
 
 
 
