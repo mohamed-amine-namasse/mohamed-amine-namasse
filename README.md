@@ -132,21 +132,9 @@
 
 
 
-</div>
 
 
 
- 
-
-
-
- <p align="center">
- <a href="https://github.com/mohamed-amine-namasse"><img src="https://github.com/user-attachments/assets/bb0eb1a9-234a-43a7-9bd6-ebbade6712a3" align="center" /> </a>
-</p>
-
-<div align="center">
-
-<br/> </p>
 
 
 <!-- THANKS-->
