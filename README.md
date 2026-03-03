@@ -120,9 +120,9 @@
 <!--QUOTE-->
 <br/><br/>
   <div align="center">
-<br/><br/>
-
-<br/><br/>
+<br>
+<p align="center">&nbsp;</p> 
+<br>
  
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/mohamed-amine-namasse)
 
