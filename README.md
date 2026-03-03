@@ -85,8 +85,7 @@
 
 
 </details>
-<a href="https://github.com/mohamed-amine-namasse">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+
 </a>
  
 
@@ -98,8 +97,10 @@
  <a href="https://github.com/mohamed-amine-namasse">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
- 【﻿ＳTATS】  
+ 【﻿Ｓtats】  
 </h3>
+<a href="https://github.com/mohamed-amine-namasse">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 <div align="center">
 <img alt="Mohamed-amine-namasse's GitHub stats" src="https://github-readme-stats-one.vercel.app/api?username=mohamed-amine-namasse&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mohamed-amine-namasse&layout=compact&&langs_count=8"/>
