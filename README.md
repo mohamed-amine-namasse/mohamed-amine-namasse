@@ -121,11 +121,19 @@
 <br/><br/>
 
 <div align="center">
+
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/mohamed-amine-namasse)
 
 
 
 
+
+
+
+
+
+</div>
+<br/>
 
 
 
